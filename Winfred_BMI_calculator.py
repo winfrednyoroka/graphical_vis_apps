@@ -2,7 +2,7 @@ import streamlit as st
 import math
 
 with st.sidebar:
-	user = st.text_input('Enter your name here','type here')
+	user = st.text_input('Enter your name here')
 
 st.info('Winfred BMI_calc and Classifier')
 
